@@ -30,7 +30,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/Ankith1602/your-repo.git
+git clone https://github.com/Ankith1602/spotify.git
 
 Open index.html in your browser.
 
